@@ -11,3 +11,6 @@ npm run serve
 ```
 Pixel Bali deployed link
 https://ecovoyage-game.netlify.app/
+Best Practice Demo
+https://youtu.be/NEdevaZQdtM
+
