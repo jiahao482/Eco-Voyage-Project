@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 Pixel Bali deployed link
-https://ecovoyage-game.netlify.app/
+https://ecovoyage-game.netlify.app/<br>
 Best Practice Demo
 https://youtu.be/NEdevaZQdtM
 
